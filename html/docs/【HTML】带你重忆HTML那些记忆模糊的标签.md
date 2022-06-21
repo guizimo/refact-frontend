@@ -2,6 +2,8 @@
 
 ## 引言
 
+github：[【HTML】带你重忆HTML那些记忆模糊的标签](https://github.com/guizimo/refact-frontend/blob/main/html/docs/%E3%80%90HTML%E3%80%91%E5%B8%A6%E4%BD%A0%E9%87%8D%E5%BF%86HTML%E9%82%A3%E4%BA%9B%E8%AE%B0%E5%BF%86%E6%A8%A1%E7%B3%8A%E7%9A%84%E6%A0%87%E7%AD%BE.md)
+
 内容速递：看了本文您能了解到的知识！
 
 ![HTML标签](https://guizimo.oss-cn-shanghai.aliyuncs.com/img/HTML%E6%A0%87%E7%AD%BE.png)
@@ -438,8 +440,6 @@ HTML的标签很多，相信大多数的xdm都了解。但并非都能记得。
 > 公众号[【归子莫】](https://welcome.guizimo.com/gzh)，小程序[【子莫说】](https://welcome.guizimo.com/zms)
 >
 > 如果你感觉对你有帮助的话，不妨给我点赞鼓励一下，好文记得收藏哟！关注我一起成长！
->
-> 所属专栏：[重构前端知识体系（HTML）](https://blog.csdn.net/qq_45163122/category_11590030.html)
 >
 > 幸好我在，感谢你来！
 
